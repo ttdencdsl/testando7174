@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 0.4.xx.3 - Release 04 (2016-03-xx)
+* 0.4.xx.3 - Release 04 (2016-03-xx)
 
 - [New] Presentation custom HTTP errors
 - [New] News Tools: Error and Navigation have been added
